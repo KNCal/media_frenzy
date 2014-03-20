@@ -16,6 +16,7 @@ Getting Started
 From media_frenzy directory
 - Install your virtual environment: virtualenv .   
 - Activate: source bin/activate
+- Git Clone https://github.com/ETF/media_frenzy.git
 - Install Dependencies: pip install -r requirements.txt
 - Create Database: python db_create.py
 - Debug is set to True
